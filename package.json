@@ -17,9 +17,19 @@
   },
   "homepage": "https://github.com/ycjcl868/VulnerableDemo#readme",
   "dependencies": {
+    "ccap": "^0.6.10",
+    "ejs": "^2.5.8",
     "koa": "^2.5.0",
     "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1",
+    "koa-views": "^5.2.1",
     "md5": "^2.2.1",
     "utility": "^1.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-stage-3": "^6.24.1"
   }
 }
