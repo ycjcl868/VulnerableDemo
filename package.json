@@ -1,0 +1,25 @@
+{
+  "name": "666",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycjcl868/VulnerableDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycjcl868/VulnerableDemo/issues"
+  },
+  "homepage": "https://github.com/ycjcl868/VulnerableDemo#readme",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "md5": "^2.2.1",
+    "utility": "^1.13.1"
+  }
+}
